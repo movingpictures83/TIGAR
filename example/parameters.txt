@@ -1,0 +1,4 @@
+gene_exp	CHR1_Pred_GReX.txt
+PED	example_PED.ped
+PED_info	PED_Info_SinglePheno.txt
+method	OLS

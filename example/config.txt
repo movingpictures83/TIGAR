@@ -1,0 +1,2 @@
+Prefix plugins/TIGAR/example/
+Plugin TIGAR inputfile parameters.txt outputfile ./
